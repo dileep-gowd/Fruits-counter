@@ -1,0 +1,58 @@
+/* Write your CSS here */
+
+.bg-cont {
+  padding: 25px;
+  background-color: #ffd569;
+  min-height: 100vh;
+}
+
+h1 {
+  color: #000000;
+}
+.bg-cont1 {
+  background-color: #ffffff;
+  margin: 25px;
+  border-radius: 16px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+img {
+  height: 50vh;
+}
+
+.img-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.btn-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+  margin-top: 20px;
+}
+
+button {
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 8px;
+  padding: 3px;
+  background-color: #007bff;
+  width: 90px;
+  height: 30px;
+  cursor: pointer;
+  outline: none;
+}
+
+span {
+  color: #ffd569;
+}
